@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registro de Actividades</title>
+</head>
+<body>
+    <h2>Historias de Usuario</h2>
+    <ul>
+        <li>19:54:07 - <strong>open</strong> en <a href="https://plataformavirtual.itla.edu.do/login/index.php">https://plataformavirtual.itla.edu.do/login/index.php</a> <span style="color: green;">OK</span></li>
+        <li>19:54:07 - <strong>setWindowSize</strong> en 955x664 <span style="color: green;">OK</span></li>
+        <li>19:54:08 - <strong>click</strong> en <span id="loginbtn">id=loginbtn</span> <span style="color: green;">OK</span></li>
+        <li>19:54:08 - <strong>click</strong> en <span class="navicon">css=.fa-calendar</span> <span style="color: green;">OK</span></li>
+        <li>19:54:13 - Intentando encontrar <span id="drop-down-64d6be45d79d564d6be457f6c34">id=drop-down-64d6be45d79d564d6be457f6c34</span>... <span style="color: green;">OK</span></li>
+        <li>19:54:29 - Advertencia: Elemento encontrado con localizador secundario <span linkText="Mis cursos">linkText=Mis cursos</span>. Para usarlo por defecto, actualiza el paso de prueba para usarlo como el localizador principal.</li>
+        <li>19:55:08 - <strong>click</strong> en <span linkText="Programación III (Presencial / Virtual) | 2023-C-2 | Kelyn Tejada Belliard">linkText=Programación III (Presencial / Virtual) | 2023-C-2 | Kelyn Tejada Belliard</span> <span style="color: green;">OK</span></li>
+        <li>19:55:08 - <strong>click</strong> en <span class="fa-bell">css=.fa-bell</span> <span style="color: green;">OK</span></li>
+        <li>19:55:09 - Intentando encontrar <span id="message-drawer-toggle-64d6be5a27fd064d6be59d36259">css=#message-drawer-toggle-64d6be5a27fd064d6be59d36259 > .icon</span>... <span style="color: green;">OK</span></li>
+        <li>19:55:16 - Advertencia: Elemento encontrado con localizador secundario <span xpath="//div[2]/a/i">xpath=//div[2]/a/i</span>. Para usarlo por defecto, actualiza el paso de prueba para usarlo como el localizador principal.</li>
+        <li>19:55:47 - <strong>click</strong> en <span id="view-overview-group-messages-toggle" class="font-weight-bold">css=#view-overview-group-messages-toggle .font-weight-bold</span> <span style="color: green;">OK</span></li>
+        <li>19:55:47 - Intentando encontrar <span id="yui_3_17_2_1_1691795036065_317">css=#yui_3_17_2_1_1691795036065_317 > .expanded-icon-container > .icon</span>... <span style="color: green;">OK</span></li>
+        <li>19:55:47 - Advertencia: Elemento encontrado con localizador secundario <span xpath="//div[2]/div/button/span[2]/i">xpath=//div[2]/div/button/span[2]/i</span>. Para usarlo por defecto, actualiza el paso de prueba para usarlo como el localizador principal.</li>
+        <li>19:56:18 - <strong>mouseUp</strong> en <span id="view-overview-group-messages-target-64d6be5a39ccc64d6be59d362520" class="rounded-circle">css=#view-overview-group-messages-target-64d6be5a39ccc64d6be59d362520 .rounded-circle</span> Undetermined</li>
+        <li>19:56:18 - Abortando...</li>
+    </ul>
+</body>
+</html>
