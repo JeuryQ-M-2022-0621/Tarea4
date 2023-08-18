@@ -47,6 +47,6 @@ public class SuiteTests : IDisposable {
     driver.FindElement(By.Id("yui_3_17_2_1_1691795036065_316")).Click();
     driver.FindElement(By.Id("action-menu-toggle-1")).Click();
     driver.FindElement(By.Id("actionmenuaction-7")).Click();
-    driver.FindElement(By.Id("password")).SendKeys("Z31er8m200*");
+    driver.FindElement(By.Id("password")).SendKeys("");
   }
 }
